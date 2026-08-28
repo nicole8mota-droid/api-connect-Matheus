@@ -2,7 +2,9 @@
 
 ## Objetivo
 
-A API Connect é uma API REST desenvolvida para realizar o gerenciamento de usuários. O projeto foi desenvolvido como um MVP (Produto Mínimo Viável), permitindo cadastrar, consultar, atualizar e remover usuários por meio de requisições HTTP.
+A API Connect é uma API REST desenvolvida para realizar o gerenciamento de usuários.
+
+O projeto foi desenvolvido como um MVP (Produto Mínimo Viável), permitindo realizar as principais operações de gerenciamento de usuários: cadastro, consulta, atualização e remoção de registros por meio de requisições HTTP.
 
 ## Tecnologias utilizadas
 
@@ -10,12 +12,13 @@ A API Connect é uma API REST desenvolvida para realizar o gerenciamento de usu�
 - Express
 - JavaScript
 - JSON
-- Git e GitHub
-- Postman, Insomnia ou Thunder Client para testes
+- Git
+- GitHub
+- Thunder Client, Postman ou Insomnia para testes
 
 ## Como executar o projeto
 
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/api-connect-naiara-mota.git
+git clone https://github.com/nicole8mota-droid/api-connect-Matheus.git
