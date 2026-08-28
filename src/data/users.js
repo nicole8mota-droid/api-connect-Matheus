@@ -1,8 +1,8 @@
 let users = [
     {
         id: 1,
-        name: "Naiara",
-        email: "naiara@email.com"
+        name: "Matheus",
+        email: "matheus@email.com"
     }
 ];
 
